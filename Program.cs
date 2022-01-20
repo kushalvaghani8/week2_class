@@ -7,6 +7,9 @@ namespace week2_class
         static void Main(string[] args)
         {
             String s = "Hello World";
+            String s2 = new String("");
+            String s3 = String.Empty;
+
         }
     }
 }
