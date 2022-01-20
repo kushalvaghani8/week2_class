@@ -9,6 +9,8 @@ namespace week2_class
             String s = "Hello World";
             String s2 = new String("");
             String s3 = String.Empty;
+            String s4 = "Hello NewWorld";
+
 
         }
     }
